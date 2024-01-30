@@ -8,4 +8,4 @@ The Introduction to Machine learning course aims to familiarize students with ma
 
 <b> Course content can be found here:</b> [Introduction to Machine Learning- Course Material](https://ml-learn.mds.ubc.ca/en)
 
-This project aims to classify various Canadian cheeses into "high fat" and "low fat" categories through data pre-pocessing and machine learning models.
+This project aims to classify various Canadian cheeses into "high fat" and "low fat" categories through data pre-pocessing and machine learning models. Four different classifier models were trained and tested: Dummy Classifier, Support Vector Classifier, Random Forest Classifier and Logistic Regression.
